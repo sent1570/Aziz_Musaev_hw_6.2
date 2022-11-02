@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aziz_Musaev_hw_6.2</string>
+    <string name="Вход">Вход</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="registration">   Выполните вход
+        или зарегистрируйтесь.</string>
+    <string name="Forgot_password">Забыл пароль?</string>
+    <string name="Click_here">Нажми сюда</string>
+    <string name="enter_email">Введите вашу почту</string>
+    <string name="enter_password">Введите ваш пароль</string>
+    <string name="to_come_in">Войти</string>
+</resources>
